@@ -3,7 +3,9 @@ Catch all exceptions and write message, trace (in verbose mode) to console outpu
 
 Returns code depends of executing result. Zero on success. Exception code or one otherwise. 
 
+[![Version](https://img.shields.io/packagist/v/sbooker/console.svg)](https://packagist.org/packages/sbooker/console)
 [![Software License][badge-license]][license]
+[![Downloads](https://img.shields.io/packagist/dt/sbooker/console.svg)](https://packagist.org/packages/sbooker/console)
 
 ## Installation
 ```bash
